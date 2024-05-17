@@ -4,7 +4,7 @@ Pipeline {
 
     environment {
 
-        GCR_CREDENTIALS_ID = 'gcp' // project-json-file
+        GCR_CREDENTIALS_ID = 'project-json-file'
 
         IMAGE_NAME = 'jcw-week3-project'
 
